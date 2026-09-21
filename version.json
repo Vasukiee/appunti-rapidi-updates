@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/Vasukiee/appunti-rapidi-updates/releases/download/v1.3/appunti-rapidi.apk",
-  "notes": "Promemoria ammiccanti casuali con trigger remoto istantaneo, fix esportazione JSON"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/Vasukiee/appunti-rapidi-updates/releases/download/v1.4/appunti-rapidi.apk",
+  "notes": "Notifica di penitenza separata 5 minuti dopo il promemoria, con trigger manuale dedicato"
 }
