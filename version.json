@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/Vasukiee/appunti-rapidi-updates/releases/download/v1.4/appunti-rapidi.apk",
-  "notes": "Notifica di penitenza separata 5 minuti dopo il promemoria, con trigger manuale dedicato"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/Vasukiee/appunti-rapidi-updates/releases/download/v1.5/appunti-rapidi.apk",
+  "notes": "Promemoria confinato alla fascia 14:00-02:00, intervallo 1-12 ore"
 }
